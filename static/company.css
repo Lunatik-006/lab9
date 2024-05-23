@@ -1,0 +1,17 @@
+li {
+        background-color: #c9c9ff;
+        border: 1px solid #000000;
+        padding: 5px;
+
+}
+body{
+        background-color: #ffbdbd;
+        text-align: center;
+        margin: 0 auto;
+        border-collapse: collapse;
+}
+button {
+        padding: 10px 20px;
+        background-color: #e4a4ff;
+        cursor: pointer;
+}
